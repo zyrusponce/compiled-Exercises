@@ -1,4 +1,4 @@
-exercise 0.6 TD
+part 0 TD
     A["Notes"] --> B["Note Form"]
     B --> C["Input: note"]
     C --> D["Submit"]
